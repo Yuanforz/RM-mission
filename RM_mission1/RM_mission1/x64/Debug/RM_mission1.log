@@ -1,0 +1,4 @@
+﻿  RM_mission1.cpp
+D:\Desktop\RM_mission1\RM_mission1\RM_mission1.cpp(23,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\RM_mission1\RM_mission1\RM_mission1.cpp(67,21): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  RM_mission1.vcxproj -> D:\Desktop\RM_mission1\x64\Debug\RM_mission1.exe
